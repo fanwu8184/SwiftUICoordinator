@@ -1,9 +1,4 @@
-//
-//  NavigationCoordinatorDemo3.swift
-//  SwiftUICoordinator
-//
-//  Created by Fan Wu on 12/9/2024.
-//
+// using AnyView to pass in
 
 import SwiftUI
 

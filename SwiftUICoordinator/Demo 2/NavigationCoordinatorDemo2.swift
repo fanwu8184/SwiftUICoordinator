@@ -1,9 +1,4 @@
-//
-//  NavigationCoordinatorDemoTwo.swift
-//  SwiftUICoordinator
-//
-//  Created by Fan Wu on 6/9/2024.
-//
+// using Presentation to combine all type of presentations: sheet, fullScreen, and navigationDestination
 
 import SwiftUI
 

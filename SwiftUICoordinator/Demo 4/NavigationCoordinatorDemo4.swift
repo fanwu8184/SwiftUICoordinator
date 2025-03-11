@@ -1,9 +1,4 @@
-//
-//  NavigationCoordinatorDemo4.swift
-//  SwiftUICoordinator
-//
-//  Created by Fan Wu on 12/9/2024.
-//
+// the way not using NavigationStack
 
 import SwiftUI
 
