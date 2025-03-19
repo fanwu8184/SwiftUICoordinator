@@ -50,6 +50,16 @@
 		70A707312C8A672F00C12F3C /* NavigationCoordinatorDemo2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 70A707302C8A672F00C12F3C /* NavigationCoordinatorDemo2.swift */; };
 		70A707332C8A68DD00C12F3C /* NavigationCoordinator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 70A707322C8A68DD00C12F3C /* NavigationCoordinator.swift */; };
 		70A707352C8A6BCF00C12F3C /* NavigationCoordinator2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 70A707342C8A6BCF00C12F3C /* NavigationCoordinator2.swift */; };
+		F7216F3D2D8A658D000A29B5 /* NavigationCoordinator5.swift in Sources */ = {isa = PBXBuildFile; fileRef = F7216F3C2D8A658D000A29B5 /* NavigationCoordinator5.swift */; };
+		F7216F3F2D8A6615000A29B5 /* PresentationModifier.swift in Sources */ = {isa = PBXBuildFile; fileRef = F7216F3E2D8A6615000A29B5 /* PresentationModifier.swift */; };
+		F7216F412D8A6689000A29B5 /* NavigationCoordinatorDemo5.swift in Sources */ = {isa = PBXBuildFile; fileRef = F7216F402D8A6689000A29B5 /* NavigationCoordinatorDemo5.swift */; };
+		F7216F432D8A6907000A29B5 /* StackA5.swift in Sources */ = {isa = PBXBuildFile; fileRef = F7216F422D8A6907000A29B5 /* StackA5.swift */; };
+		F7216F472D8A7B36000A29B5 /* StackB5.swift in Sources */ = {isa = PBXBuildFile; fileRef = F7216F462D8A7B36000A29B5 /* StackB5.swift */; };
+		F7216F492D8A7C90000A29B5 /* SheetA5.swift in Sources */ = {isa = PBXBuildFile; fileRef = F7216F482D8A7C90000A29B5 /* SheetA5.swift */; };
+		F7216F4B2D8A7CC1000A29B5 /* StackC5.swift in Sources */ = {isa = PBXBuildFile; fileRef = F7216F4A2D8A7CC1000A29B5 /* StackC5.swift */; };
+		F7216F4D2D8A7CE0000A29B5 /* SheetB5.swift in Sources */ = {isa = PBXBuildFile; fileRef = F7216F4C2D8A7CE0000A29B5 /* SheetB5.swift */; };
+		F7216F4F2D8A7D02000A29B5 /* FullScreenA5.swift in Sources */ = {isa = PBXBuildFile; fileRef = F7216F4E2D8A7D02000A29B5 /* FullScreenA5.swift */; };
+		F7216F512D8A7D22000A29B5 /* FullScreenB5.swift in Sources */ = {isa = PBXBuildFile; fileRef = F7216F502D8A7D22000A29B5 /* FullScreenB5.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -117,6 +127,16 @@
 		70A707302C8A672F00C12F3C /* NavigationCoordinatorDemo2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationCoordinatorDemo2.swift; sourceTree = "<group>"; };
 		70A707322C8A68DD00C12F3C /* NavigationCoordinator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationCoordinator.swift; sourceTree = "<group>"; };
 		70A707342C8A6BCF00C12F3C /* NavigationCoordinator2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationCoordinator2.swift; sourceTree = "<group>"; };
+		F7216F3C2D8A658D000A29B5 /* NavigationCoordinator5.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationCoordinator5.swift; sourceTree = "<group>"; };
+		F7216F3E2D8A6615000A29B5 /* PresentationModifier.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PresentationModifier.swift; sourceTree = "<group>"; };
+		F7216F402D8A6689000A29B5 /* NavigationCoordinatorDemo5.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationCoordinatorDemo5.swift; sourceTree = "<group>"; };
+		F7216F422D8A6907000A29B5 /* StackA5.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StackA5.swift; sourceTree = "<group>"; };
+		F7216F462D8A7B36000A29B5 /* StackB5.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StackB5.swift; sourceTree = "<group>"; };
+		F7216F482D8A7C90000A29B5 /* SheetA5.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SheetA5.swift; sourceTree = "<group>"; };
+		F7216F4A2D8A7CC1000A29B5 /* StackC5.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StackC5.swift; sourceTree = "<group>"; };
+		F7216F4C2D8A7CE0000A29B5 /* SheetB5.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SheetB5.swift; sourceTree = "<group>"; };
+		F7216F4E2D8A7D02000A29B5 /* FullScreenA5.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FullScreenA5.swift; sourceTree = "<group>"; };
+		F7216F502D8A7D22000A29B5 /* FullScreenB5.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FullScreenB5.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -205,6 +225,7 @@
 				70A7072F2C8A66F500C12F3C /* Demo 2 */,
 				7040D78B2C92E8D500E6FE00 /* Demo 3 */,
 				7040D79E2C93008E00E6FE00 /* Demo 4 */,
+				F7216F3B2D8A6513000A29B5 /* Demo 5 */,
 				70A706FC2C8A597A00C12F3C /* Preview Content */,
 				70A706F62C8A597800C12F3C /* SwiftUICoordinatorApp.swift */,
 				7040D7B12C93A5A600E6FE00 /* References.md */,
@@ -267,6 +288,23 @@
 				7040D7892C91B6B100E6FE00 /* FullScreenB2.swift */,
 			);
 			path = "Demo 2";
+			sourceTree = "<group>";
+		};
+		F7216F3B2D8A6513000A29B5 /* Demo 5 */ = {
+			isa = PBXGroup;
+			children = (
+				F7216F3C2D8A658D000A29B5 /* NavigationCoordinator5.swift */,
+				F7216F3E2D8A6615000A29B5 /* PresentationModifier.swift */,
+				F7216F402D8A6689000A29B5 /* NavigationCoordinatorDemo5.swift */,
+				F7216F422D8A6907000A29B5 /* StackA5.swift */,
+				F7216F462D8A7B36000A29B5 /* StackB5.swift */,
+				F7216F482D8A7C90000A29B5 /* SheetA5.swift */,
+				F7216F4A2D8A7CC1000A29B5 /* StackC5.swift */,
+				F7216F4C2D8A7CE0000A29B5 /* SheetB5.swift */,
+				F7216F4E2D8A7D02000A29B5 /* FullScreenA5.swift */,
+				F7216F502D8A7D22000A29B5 /* FullScreenB5.swift */,
+			);
+			path = "Demo 5";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -399,6 +437,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F7216F3F2D8A6615000A29B5 /* PresentationModifier.swift in Sources */,
 				7040D7992C92FB9800E6FE00 /* SheetB3.swift in Sources */,
 				7040D7B02C93059800E6FE00 /* FullScreenB4.swift in Sources */,
 				70A707252C8A5F6A00C12F3C /* StackC.swift in Sources */,
@@ -411,29 +450,38 @@
 				7040D7842C91B5F200E6FE00 /* SheetA2.swift in Sources */,
 				7040D7B32C93A99200E6FE00 /* Testing.swift in Sources */,
 				7040D77E2C91B0CC00E6FE00 /* StackA2.swift in Sources */,
+				F7216F472D8A7B36000A29B5 /* StackB5.swift in Sources */,
 				7040D78A2C91B6B100E6FE00 /* FullScreenB2.swift in Sources */,
 				7040D7862C91B64F00E6FE00 /* SheetB2.swift in Sources */,
 				7040D78F2C92F41600E6FE00 /* NavigationCoordinatorDemo3.swift in Sources */,
 				7040D7A02C9300BE00E6FE00 /* NavigationCoordinator4.swift in Sources */,
+				F7216F4B2D8A7CC1000A29B5 /* StackC5.swift in Sources */,
 				70A707332C8A68DD00C12F3C /* NavigationCoordinator.swift in Sources */,
 				7040D7AC2C93057200E6FE00 /* SheetB4.swift in Sources */,
 				7040D7A22C93013900E6FE00 /* NavigationCoordinatorDemo4.swift in Sources */,
+				F7216F4D2D8A7CE0000A29B5 /* SheetB5.swift in Sources */,
 				7040D7802C91B52F00E6FE00 /* StackB2.swift in Sources */,
 				7040D7952C92FAE800E6FE00 /* StackC3.swift in Sources */,
 				7040D78D2C92E94300E6FE00 /* NavigationCoordinator3.swift in Sources */,
 				70A707352C8A6BCF00C12F3C /* NavigationCoordinator2.swift in Sources */,
+				F7216F3D2D8A658D000A29B5 /* NavigationCoordinator5.swift in Sources */,
+				F7216F512D8A7D22000A29B5 /* FullScreenB5.swift in Sources */,
 				7040D7A62C93054A00E6FE00 /* StackB4.swift in Sources */,
 				7040D7A82C93055700E6FE00 /* StackC4.swift in Sources */,
 				7040D7932C92FAB300E6FE00 /* StackB3.swift in Sources */,
+				F7216F432D8A6907000A29B5 /* StackA5.swift in Sources */,
 				70A707312C8A672F00C12F3C /* NavigationCoordinatorDemo2.swift in Sources */,
+				F7216F492D8A7C90000A29B5 /* SheetA5.swift in Sources */,
 				7040D7AA2C93056700E6FE00 /* SheetA4.swift in Sources */,
 				7040D7882C91B67700E6FE00 /* FullScreenA2.swift in Sources */,
 				7040D79B2C92FBBA00E6FE00 /* FullScreenA3.swift in Sources */,
 				7040D7822C91B5B500E6FE00 /* StackC2.swift in Sources */,
+				F7216F4F2D8A7D02000A29B5 /* FullScreenA5.swift in Sources */,
 				7040D7AE2C93058100E6FE00 /* FullScreenA4.swift in Sources */,
 				70A706F92C8A597800C12F3C /* ContentView.swift in Sources */,
 				70A707292C8A5F8A00C12F3C /* FullScreenA.swift in Sources */,
 				70A707232C8A5F5700C12F3C /* StackB.swift in Sources */,
+				F7216F412D8A6689000A29B5 /* NavigationCoordinatorDemo5.swift in Sources */,
 				7040D79D2C92FBD500E6FE00 /* FullScreenB3.swift in Sources */,
 				70A707212C8A5E2C00C12F3C /* StackA.swift in Sources */,
 				70A706F72C8A597800C12F3C /* SwiftUICoordinatorApp.swift in Sources */,

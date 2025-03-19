@@ -89,7 +89,7 @@ extension View {
   }
 }
 
-class NavigationCoordinator5<V: View>: ObservableObject {
+class NavigationCoordinatorTesting<V: View>: ObservableObject {
   @Published var path = NavigationPath()
   @Published var presentation: Presentation3<V>?
   
@@ -115,4 +115,4 @@ class NavigationCoordinator5<V: View>: ObservableObject {
   }
 }
 
-let navigationCoordinator5 = NavigationCoordinator5<Text>()
+let navigationCoordinatorTesting = NavigationCoordinatorTesting<Text>()
